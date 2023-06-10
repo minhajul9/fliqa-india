@@ -1,0 +1,31 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import url('https://fonts.googleapis.com/css2?family=Fascinate&family=Jura:wght@400;700&family=League+Gothic&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Fascinate&family=Josefin+Sans:wght@300&family=Jura:wght@400;700&family=League+Gothic&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fascinate&family=Homenaje&family=Josefin+Sans:wght@300&family=Jura:wght@400;700&family=League+Gothic&display=swap');
+
+
+.jura-font{
+    font-family: 'Jura', sans-serif;
+}
+
+.josefin-font{
+    font-family: 'Josefin Sans';
+}
+
+.bg-img{
+    background-image: url(/src/assets/images/Group\ 53.png);
+    background-repeat: no-repeat;
+}
+
+.text-hom{
+    font-family: 'Homenaje', sans-serif;
+}
+
+.photo-back{
+    background-image: url(/src/assets/images/Rectangle\ 217.png);
+    background-repeat: no-repeat;
+
+}
